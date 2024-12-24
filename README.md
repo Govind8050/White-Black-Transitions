@@ -12,3 +12,10 @@ Project Features
    .HTML for structuring the webpage.
 4. CSS for styling and transition effects.
     .React for interactive functionality.
+
+How to Run this project
+1. Clone the repository:- git clone https://github.com/Govind8050/MyCreation.git
+2. Navigate to the project directory:- cd MyCreation
+3. install dependencies: npm install
+4. Start the development server:- npm start
+5. Open your browser and visit: http://Localhost:3000
