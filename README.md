@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-transition-project
 =======
 MyCreation: Smooth Transition Project
@@ -23,3 +24,6 @@ How to Run this project
 4. Start the development server:- npm start
 5. Open your browser and visit: http://Localhost:3000
 >>>>>>> 352c18ac4ed7bca38d64b71a1262e8148b0fe2dd
+=======
+# White-Black-Transitions
+>>>>>>> 84541640e0509b87cef4543561f925d58d73e14f
