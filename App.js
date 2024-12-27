@@ -137,7 +137,11 @@ function App() {
             Feel free to reach out if you want to discuss books, share recommendations, 
             or collaborate on any literary projects. You can contact me at: 
             <br />
+<<<<<<< HEAD
             Email: <a href="mailto:example@example.com">example@example.com</a>
+=======
+            Email: <a href="mailto:gm085913@gmail.com">gm085913@gmail.com</a>
+>>>>>>> 352c18ac4ed7bca38d64b71a1262e8148b0fe2dd
           </p>
         </div>
 
